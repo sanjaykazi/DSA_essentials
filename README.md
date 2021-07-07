@@ -1,6 +1,6 @@
 ## Queue
 ##
-#
+##
 ###queue using stack
 
 void StackQueue :: push(int x)
